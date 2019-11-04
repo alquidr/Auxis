@@ -40,7 +40,7 @@ for _foodcritic_ validation:
 3. Click on **Create Key Pair** and then set the name with **earned**.
 4. Download the keypair and reserve it.
 
-## GENERAL CONFIGURATION
+### GENERAL CONFIGURATION
 
 To configure the hole project in your local machine, you must follow the next instructions:
 1. Create a folder with the name of the project.
@@ -50,7 +50,7 @@ To configure the hole project in your local machine, you must follow the next in
 4. Inside of the main folder Place the _ec2 key pair_ called **earned.pem**, and the terraform file called
    **main.tf**   
 
-### Terraform 
+### TERRAFORM CONFIGURATION
 
 To run the the project you must follow the next instructions:
 1. Install terraform in your local machine, and inside the project you must type the _terraform init_ command.
