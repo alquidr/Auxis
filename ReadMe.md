@@ -46,7 +46,7 @@ To configure the hole project in your local machine, you must follow the next in
 1. Create a folder with the name of the project.
 2. Place inside the folder the _chef-repo_ folder.
 3. Inside _chef-repo_ generate a new cookbook called _nginx-server_ and replace the hole content
-   with the cookbook of the pull request.
+   with the cookbook recipe: _default.rb_, and the `default_spec.rb` of the pull request.
 4. Inside of the main folder Place the _ec2 key pair_ called **earned.pem**, and the terraform file called
    **main.tf**   
 
